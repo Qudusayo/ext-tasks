@@ -1,0 +1,11 @@
+@import url("non.geist");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    font-family: "Geist Variable";
+  }
+}
